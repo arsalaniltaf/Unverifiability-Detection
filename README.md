@@ -1,5 +1,12 @@
-**Unverifiability Detector (Weighted TF-IDF + Numeric Features + Optuna)**
+Unverifiability Detector (Weighted TF-IDF + Numeric Features + Optuna)
 Author: Muhammad Arsalan
+
+Dataset Information (from ARTA / Requirement Testability Dataset)
+This project can also utilize the public dataset released with the research paper “Requirement Testability Measurement Based on Requirement Smells”. The dataset—published on Zenodo—contains a curated collection of real-world software requirements annotated with various requirement smells, including ambiguity, unverifiability, and other quality issues. The dataset was produced as part of the Automatic Requirement Testability Analyzer (ARTA) initiative, a web application designed to support requirement engineering quality assurance and assist analysts in evaluating and managing the testability of their requirements. This publicly available dataset supports reproducible research and enables benchmarking for tools focused on requirement quality analysis.
+
+Zakeri-Nasrabadi, M., & Parsa, S. (2024). Natural Language Requirements Testability Measurement Based on Requirement Smells. 
+
+Zenodo. https://doi.org/10.5281/zenodo.4266727
 
 This project provides a complete machine learning pipeline for detecting
 UNVERIFIABILITY in natural-language software requirements. It uses weighted
