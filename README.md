@@ -65,7 +65,7 @@ Python version: 3.8 or above recommended.
 ------------------------------------------------------------
 1. Data Loading:
    - Script prompts user for CSV path.
-   - Automatically detects text and label columns.
+   - Set text column as (Requiremnt) and label column as (Unverifiability).
    - Normalizes column names and cleans data.
 
 2. Feature Engineering:
